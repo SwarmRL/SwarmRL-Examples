@@ -1,3 +1,12 @@
 # SwarmRL-Examples
 Here we provide as many examples as possible for the SwarmRL package. 
-Most if not all of these are past research projects or test cases used during the development of the software.
+
+The examples are broken up into two categories:
+- Examples
+- Tutorials
+
+The tutorials thusfar cover the following topics:
+
+- Tutorial 1: Getting Started with SwarmRL
+
+We will continue to add tutorials and examples as we develop the package and perform more research.
